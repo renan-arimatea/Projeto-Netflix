@@ -50,7 +50,7 @@ header nav a:hover{
     background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url(../img/capa-dark.jpg);
 
     height: 400px;
-    background-size: auto;
+    background-size: cover;
 
     display: flex;
     flex-direction: column;
